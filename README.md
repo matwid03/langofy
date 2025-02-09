@@ -34,12 +34,5 @@ The app provides access to the user’s profile, where they can view their infor
 
 
 ## Screenshots
-![Game Screenshot 1](screenshots/s1.png)
-![Game Screenshot 2](screenshots/s2.png)
-![Game Screenshot 3](screenshots/s3.png)
-![Game Screenshot 4](screenshots/s4.png)
-![Game Screenshot 4](screenshots/s7.png)
-![Game Screenshot 4](screenshots/s8.png)
-![Game Screenshot 4](screenshots/s9.png)
-![Game Screenshot 4](screenshots/s5.png)
-![Game Screenshot 4](screenshots/s6.png)
+<img src="screenshots/s1.png" width="300"/><img src="screenshots/s2.png" width="300"/><img src="screenshots/s3.png" width="300"/><img src="screenshots/s4.png" width="300"/><img src="screenshots/s7.png" width="300"/><img src="screenshots/s8.png" width="300"/><img src="screenshots/s9.png" width="300"/><img src="screenshots/s5.png" width="300"/><img src="screenshots/s6.png" width="300"/>
+
