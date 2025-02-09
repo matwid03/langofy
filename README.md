@@ -1,6 +1,6 @@
 # Mobile English Learning App for Children
 
-This app was created as part of my engineering thesis using React Native, providing a fun and interactive way for children to learn English through educational games.
+This app was created as part of my engineering thesis using React Native and **Expo**, providing a fun and interactive way for children to learn English through educational games.
 
 ## Features
 
@@ -30,8 +30,11 @@ The app provides access to the user’s profile, where they can view their infor
 
 ## Technologies Used
 - **React Native** – for building the mobile application.
+- **Expo** – for creating and running the app with React Native.
 - **Firebase** – for managing the user database, vocabulary, and authentication.
 
+## Testing
+The app was **tested and run using Android Studio**, ensuring smooth performance and functionality on Android devices and emulators.
 
 ## Screenshots
 <img src="screenshots/s1.png" width="230"/><img src="screenshots/s2.png" width="230"/><img src="screenshots/s3.png" width="230"/><img src="screenshots/s4.png" width="230"/><img src="screenshots/s7.png" width="230"/><img src="screenshots/s8.png" width="230"/><img src="screenshots/s9.png" width="230"/><img src="screenshots/s5.png" width="230"/><img src="screenshots/s6.png" width="230"/>
